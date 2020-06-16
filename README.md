@@ -1,5 +1,5 @@
 # Itch add to library
-Script that logs into itch and adds all the games to your library by acting like you went to the download page for that item
+Script that logs into itch and adds all the games from the racial justice and equality bundle to your library by acting like you went to the download page for that item
 
 ## Requirements
 * Python3.6 or above
